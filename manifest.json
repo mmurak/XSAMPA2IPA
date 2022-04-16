@@ -1,0 +1,13 @@
+{
+"manifest_version": 3,
+"name": "X-SAMPA to IPA converter",
+"version": "1.0.0",
+"description": "Transcribe X-SAMPA to Unicode IPA char.",
+"icons": {
+    "128": "128.png"
+},
+"action": {
+     "default_icon": "PurpleKiwiBird.png",
+     "default_popup": "popup.html"
+}
+}
