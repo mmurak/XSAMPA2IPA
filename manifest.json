@@ -1,7 +1,7 @@
 {
 "manifest_version": 3,
 "name": "X-SAMPA to IPA converter",
-"version": "1.0.0",
+"version": "1.0.1",
 "description": "Transcribe X-SAMPA to Unicode IPA char.",
 "icons": {
     "128": "128.png"
